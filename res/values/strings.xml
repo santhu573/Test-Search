@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Here_Search</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_here">Enter search image text</string>
+    <string name="GO">Go</string>
+	<string name="cache_location">GICache</string>
+</resources>
